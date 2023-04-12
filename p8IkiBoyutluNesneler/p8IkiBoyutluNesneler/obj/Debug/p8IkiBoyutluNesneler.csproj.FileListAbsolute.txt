@@ -1,0 +1,11 @@
+C:\Users\mberk\source\repos\p8IkiBoyutluNesneler\p8IkiBoyutluNesneler\bin\Debug\p8IkiBoyutluNesneler.exe.config
+C:\Users\mberk\source\repos\p8IkiBoyutluNesneler\p8IkiBoyutluNesneler\bin\Debug\p8IkiBoyutluNesneler.exe
+C:\Users\mberk\source\repos\p8IkiBoyutluNesneler\p8IkiBoyutluNesneler\bin\Debug\p8IkiBoyutluNesneler.pdb
+C:\Users\mberk\source\repos\p8IkiBoyutluNesneler\p8IkiBoyutluNesneler\obj\Debug\p8IkiBoyutluNesneler.csproj.AssemblyReference.cache
+C:\Users\mberk\source\repos\p8IkiBoyutluNesneler\p8IkiBoyutluNesneler\obj\Debug\p8IkiBoyutluNesneler.csproj.SuggestedBindingRedirects.cache
+C:\Users\mberk\source\repos\p8IkiBoyutluNesneler\p8IkiBoyutluNesneler\obj\Debug\p8IkiBoyutluNesneler.Form1.resources
+C:\Users\mberk\source\repos\p8IkiBoyutluNesneler\p8IkiBoyutluNesneler\obj\Debug\p8IkiBoyutluNesneler.Properties.Resources.resources
+C:\Users\mberk\source\repos\p8IkiBoyutluNesneler\p8IkiBoyutluNesneler\obj\Debug\p8IkiBoyutluNesneler.csproj.GenerateResource.cache
+C:\Users\mberk\source\repos\p8IkiBoyutluNesneler\p8IkiBoyutluNesneler\obj\Debug\p8IkiBoyutluNesneler.csproj.CoreCompileInputs.cache
+C:\Users\mberk\source\repos\p8IkiBoyutluNesneler\p8IkiBoyutluNesneler\obj\Debug\p8IkiBoyutluNesneler.exe
+C:\Users\mberk\source\repos\p8IkiBoyutluNesneler\p8IkiBoyutluNesneler\obj\Debug\p8IkiBoyutluNesneler.pdb
